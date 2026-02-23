@@ -1,0 +1,501 @@
+tweet_id,tweet_text,created_date,location,sentiment
+1001,It is okay,2024-01-04,Hyderabad,Neutral
+1002,Very bad experience,2024-01-30,Bangalore,Negative
+1003,Not worth the money,2024-01-30,Chennai,Negative
+1004,Totally disappointed,2024-01-24,Madurai,Negative
+1005,Very bad experience,2024-01-14,Chennai,Negative
+1006,Totally disappointed,2024-01-05,Hyderabad,Negative
+1007,Very bad experience,2024-01-19,Coimbatore,Negative
+1008,Very happy with the experience,2024-01-02,Madurai,Positive
+1009,Very happy with the experience,2024-01-31,Chennai,Positive
+1010,Amazing service,2024-01-24,Mumbai,Positive
+1011,Excellent quality,2024-01-10,Chennai,Positive
+1012,Nothing special,2024-01-11,Mumbai,Neutral
+1013,Nothing special,2024-01-19,Mumbai,Neutral
+1014,Extremely unhappy,2024-01-26,Mumbai,Negative
+1015,Neither good nor bad,2024-01-01,Chennai,Neutral
+1016,Amazing service,2024-01-22,Madurai,Positive
+1017,Not worth the money,2024-01-02,Bangalore,Negative
+1018,I love this product,2024-01-23,Delhi,Positive
+1019,Excellent quality,2024-01-06,Hyderabad,Positive
+1020,Extremely unhappy,2024-01-08,Chennai,Negative
+1021,Amazing service,2024-01-19,Coimbatore,Positive
+1022,Extremely unhappy,2024-01-17,Madurai,Negative
+1023,Nothing special,2024-01-28,Bangalore,Neutral
+1024,I love this product,2024-01-19,Coimbatore,Positive
+1025,Amazing service,2024-01-08,Delhi,Positive
+1026,Excellent quality,2024-01-10,Coimbatore,Positive
+1027,Totally disappointed,2024-01-22,Mumbai,Negative
+1028,Worst service ever,2024-01-04,Hyderabad,Negative
+1029,Neither good nor bad,2024-01-27,Delhi,Neutral
+1030,Just fine,2024-01-07,Coimbatore,Neutral
+1031,I love this product,2024-01-16,Coimbatore,Positive
+1032,Worst service ever,2024-01-14,Bangalore,Negative
+1033,Just fine,2024-01-26,Delhi,Neutral
+1034,Highly recommended,2024-01-30,Hyderabad,Positive
+1035,Excellent quality,2024-01-21,Bangalore,Positive
+1036,Average experience,2024-01-15,Coimbatore,Neutral
+1037,It is okay,2024-01-08,Hyderabad,Neutral
+1038,Average experience,2024-01-04,Madurai,Neutral
+1039,Just fine,2024-01-07,Delhi,Neutral
+1040,Average experience,2024-01-22,Chennai,Neutral
+1041,Just fine,2024-01-27,Coimbatore,Neutral
+1042,It is okay,2024-01-21,Hyderabad,Neutral
+1043,It is okay,2024-01-05,Madurai,Neutral
+1044,Amazing service,2024-01-31,Madurai,Positive
+1045,Very bad experience,2024-01-16,Delhi,Negative
+1046,Just fine,2024-01-13,Chennai,Neutral
+1047,I love this product,2024-01-13,Delhi,Positive
+1048,It is okay,2024-01-06,Delhi,Neutral
+1049,Not worth the money,2024-01-31,Chennai,Negative
+1050,Nothing special,2024-01-02,Mumbai,Neutral
+1051,I love this product,2024-01-11,Bangalore,Positive
+1052,Totally disappointed,2024-01-14,Delhi,Negative
+1053,Extremely unhappy,2024-01-07,Delhi,Negative
+1054,Just fine,2024-01-20,Chennai,Neutral
+1055,It is okay,2024-01-14,Madurai,Neutral
+1056,Not worth the money,2024-01-28,Madurai,Negative
+1057,Nothing special,2024-01-21,Chennai,Neutral
+1058,Neither good nor bad,2024-01-25,Bangalore,Neutral
+1059,Average experience,2024-01-26,Madurai,Neutral
+1060,Very happy with the experience,2024-01-02,Mumbai,Positive
+1061,I love this product,2024-01-05,Coimbatore,Positive
+1062,Amazing service,2024-01-13,Madurai,Positive
+1063,Neither good nor bad,2024-01-30,Chennai,Neutral
+1064,Very happy with the experience,2024-01-05,Bangalore,Positive
+1065,Highly recommended,2024-01-11,Coimbatore,Positive
+1066,It is okay,2024-01-29,Madurai,Neutral
+1067,Average experience,2024-01-27,Madurai,Neutral
+1068,It is okay,2024-01-06,Bangalore,Neutral
+1069,Totally disappointed,2024-01-13,Hyderabad,Negative
+1070,Excellent quality,2024-01-31,Madurai,Positive
+1071,Neither good nor bad,2024-01-22,Hyderabad,Neutral
+1072,Extremely unhappy,2024-01-30,Madurai,Negative
+1073,Very bad experience,2024-01-07,Delhi,Negative
+1074,Very happy with the experience,2024-01-19,Mumbai,Positive
+1075,Nothing special,2024-01-09,Bangalore,Neutral
+1076,It is okay,2024-01-24,Delhi,Neutral
+1077,Extremely unhappy,2024-01-25,Coimbatore,Negative
+1078,Excellent quality,2024-01-15,Coimbatore,Positive
+1079,Just fine,2024-01-14,Coimbatore,Neutral
+1080,Average experience,2024-01-03,Chennai,Neutral
+1081,Not worth the money,2024-01-01,Mumbai,Negative
+1082,Average experience,2024-01-09,Madurai,Neutral
+1083,Very bad experience,2024-01-23,Chennai,Negative
+1084,Nothing special,2024-01-28,Madurai,Neutral
+1085,Neither good nor bad,2024-01-02,Coimbatore,Neutral
+1086,Just fine,2024-01-01,Bangalore,Neutral
+1087,Nothing special,2024-01-18,Delhi,Neutral
+1088,Very bad experience,2024-01-06,Madurai,Negative
+1089,Very bad experience,2024-01-08,Madurai,Negative
+1090,Totally disappointed,2024-01-23,Hyderabad,Negative
+1091,Average experience,2024-01-12,Madurai,Neutral
+1092,Totally disappointed,2024-01-01,Bangalore,Negative
+1093,Nothing special,2024-01-24,Chennai,Neutral
+1094,Amazing service,2024-01-27,Madurai,Positive
+1095,I love this product,2024-01-30,Coimbatore,Positive
+1096,Totally disappointed,2024-01-10,Delhi,Negative
+1097,Extremely unhappy,2024-01-16,Chennai,Negative
+1098,Extremely unhappy,2024-01-10,Bangalore,Negative
+1099,Not worth the money,2024-01-28,Mumbai,Negative
+1100,Neither good nor bad,2024-01-31,Bangalore,Neutral
+1101,I love this product,2024-01-24,Delhi,Positive
+1102,Highly recommended,2024-01-07,Hyderabad,Positive
+1103,Neither good nor bad,2024-01-30,Bangalore,Neutral
+1104,Neither good nor bad,2024-01-08,Mumbai,Neutral
+1105,I love this product,2024-01-02,Coimbatore,Positive
+1106,Extremely unhappy,2024-01-13,Mumbai,Negative
+1107,Just fine,2024-01-12,Delhi,Neutral
+1108,Excellent quality,2024-01-03,Mumbai,Positive
+1109,Excellent quality,2024-01-18,Madurai,Positive
+1110,Extremely unhappy,2024-01-30,Mumbai,Negative
+1111,Just fine,2024-01-29,Delhi,Neutral
+1112,Not worth the money,2024-01-16,Chennai,Negative
+1113,Highly recommended,2024-01-20,Mumbai,Positive
+1114,Very happy with the experience,2024-01-20,Coimbatore,Positive
+1115,Totally disappointed,2024-01-26,Mumbai,Negative
+1116,Very happy with the experience,2024-01-23,Bangalore,Positive
+1117,I love this product,2024-01-17,Madurai,Positive
+1118,Worst service ever,2024-01-22,Mumbai,Negative
+1119,Average experience,2024-01-04,Coimbatore,Neutral
+1120,It is okay,2024-01-29,Delhi,Neutral
+1121,Very happy with the experience,2024-01-05,Mumbai,Positive
+1122,Just fine,2024-01-09,Coimbatore,Neutral
+1123,Totally disappointed,2024-01-20,Mumbai,Negative
+1124,Very happy with the experience,2024-01-24,Bangalore,Positive
+1125,Neither good nor bad,2024-01-20,Mumbai,Neutral
+1126,Extremely unhappy,2024-01-14,Bangalore,Negative
+1127,Amazing service,2024-01-09,Chennai,Positive
+1128,It is okay,2024-01-04,Chennai,Neutral
+1129,Not worth the money,2024-01-24,Bangalore,Negative
+1130,Extremely unhappy,2024-01-04,Coimbatore,Negative
+1131,Totally disappointed,2024-01-31,Mumbai,Negative
+1132,It is okay,2024-01-26,Hyderabad,Neutral
+1133,Excellent quality,2024-01-21,Mumbai,Positive
+1134,Excellent quality,2024-01-03,Chennai,Positive
+1135,Not worth the money,2024-01-22,Mumbai,Negative
+1136,Very happy with the experience,2024-01-30,Chennai,Positive
+1137,Totally disappointed,2024-01-15,Madurai,Negative
+1138,I love this product,2024-01-27,Chennai,Positive
+1139,Not worth the money,2024-01-19,Bangalore,Negative
+1140,Highly recommended,2024-01-02,Madurai,Positive
+1141,Average experience,2024-01-30,Chennai,Neutral
+1142,Not worth the money,2024-01-30,Madurai,Negative
+1143,Totally disappointed,2024-01-04,Chennai,Negative
+1144,Highly recommended,2024-01-23,Delhi,Positive
+1145,It is okay,2024-01-25,Bangalore,Neutral
+1146,Very happy with the experience,2024-01-07,Chennai,Positive
+1147,Extremely unhappy,2024-01-29,Mumbai,Negative
+1148,I love this product,2024-01-16,Delhi,Positive
+1149,I love this product,2024-01-31,Hyderabad,Positive
+1150,Average experience,2024-01-25,Madurai,Neutral
+1151,Average experience,2024-01-27,Chennai,Neutral
+1152,Very bad experience,2024-01-14,Bangalore,Negative
+1153,Extremely unhappy,2024-01-19,Delhi,Negative
+1154,Extremely unhappy,2024-01-26,Coimbatore,Negative
+1155,Nothing special,2024-01-19,Chennai,Neutral
+1156,Highly recommended,2024-01-20,Delhi,Positive
+1157,Worst service ever,2024-01-03,Madurai,Negative
+1158,It is okay,2024-01-22,Bangalore,Neutral
+1159,Amazing service,2024-01-13,Madurai,Positive
+1160,Very happy with the experience,2024-01-09,Hyderabad,Positive
+1161,It is okay,2024-01-29,Mumbai,Neutral
+1162,Very happy with the experience,2024-01-06,Bangalore,Positive
+1163,Neither good nor bad,2024-01-21,Delhi,Neutral
+1164,It is okay,2024-01-27,Madurai,Neutral
+1165,I love this product,2024-01-20,Coimbatore,Positive
+1166,Not worth the money,2024-01-21,Madurai,Negative
+1167,I love this product,2024-01-28,Bangalore,Positive
+1168,Extremely unhappy,2024-01-29,Mumbai,Negative
+1169,Just fine,2024-01-31,Delhi,Neutral
+1170,Not worth the money,2024-01-06,Coimbatore,Negative
+1171,Amazing service,2024-01-13,Delhi,Positive
+1172,Worst service ever,2024-01-16,Bangalore,Negative
+1173,Highly recommended,2024-01-19,Delhi,Positive
+1174,Extremely unhappy,2024-01-09,Coimbatore,Negative
+1175,Very happy with the experience,2024-01-06,Mumbai,Positive
+1176,Extremely unhappy,2024-01-04,Mumbai,Negative
+1177,Amazing service,2024-01-06,Bangalore,Positive
+1178,Excellent quality,2024-01-13,Bangalore,Positive
+1179,Highly recommended,2024-01-17,Bangalore,Positive
+1180,Extremely unhappy,2024-01-12,Coimbatore,Negative
+1181,Not worth the money,2024-01-08,Chennai,Negative
+1182,I love this product,2024-01-05,Coimbatore,Positive
+1183,Not worth the money,2024-01-10,Madurai,Negative
+1184,Just fine,2024-01-10,Hyderabad,Neutral
+1185,Amazing service,2024-01-10,Chennai,Positive
+1186,Average experience,2024-01-15,Bangalore,Neutral
+1187,I love this product,2024-01-03,Mumbai,Positive
+1188,Extremely unhappy,2024-01-23,Hyderabad,Negative
+1189,Just fine,2024-01-14,Coimbatore,Neutral
+1190,Not worth the money,2024-01-30,Coimbatore,Negative
+1191,Highly recommended,2024-01-12,Mumbai,Positive
+1192,Neither good nor bad,2024-01-19,Madurai,Neutral
+1193,Very happy with the experience,2024-01-12,Mumbai,Positive
+1194,Just fine,2024-01-09,Chennai,Neutral
+1195,Totally disappointed,2024-01-31,Bangalore,Negative
+1196,Just fine,2024-01-25,Delhi,Neutral
+1197,It is okay,2024-01-30,Bangalore,Neutral
+1198,Worst service ever,2024-01-23,Bangalore,Negative
+1199,Worst service ever,2024-01-06,Madurai,Negative
+1200,Amazing service,2024-01-27,Madurai,Positive
+1201,Excellent quality,2024-01-13,Delhi,Positive
+1202,Not worth the money,2024-01-15,Coimbatore,Negative
+1203,Totally disappointed,2024-01-31,Hyderabad,Negative
+1204,Extremely unhappy,2024-01-24,Hyderabad,Negative
+1205,Nothing special,2024-01-28,Coimbatore,Neutral
+1206,Nothing special,2024-01-08,Bangalore,Neutral
+1207,Average experience,2024-01-26,Mumbai,Neutral
+1208,Not worth the money,2024-01-24,Madurai,Negative
+1209,Not worth the money,2024-01-25,Hyderabad,Negative
+1210,Not worth the money,2024-01-05,Delhi,Negative
+1211,Totally disappointed,2024-01-15,Delhi,Negative
+1212,Worst service ever,2024-01-15,Bangalore,Negative
+1213,Highly recommended,2024-01-28,Coimbatore,Positive
+1214,Worst service ever,2024-01-31,Delhi,Negative
+1215,Highly recommended,2024-01-30,Madurai,Positive
+1216,Not worth the money,2024-01-27,Mumbai,Negative
+1217,Excellent quality,2024-01-08,Chennai,Positive
+1218,Highly recommended,2024-01-08,Mumbai,Positive
+1219,Average experience,2024-01-05,Madurai,Neutral
+1220,Average experience,2024-01-30,Bangalore,Neutral
+1221,Amazing service,2024-01-04,Hyderabad,Positive
+1222,Just fine,2024-01-20,Mumbai,Neutral
+1223,Very bad experience,2024-01-17,Delhi,Negative
+1224,Totally disappointed,2024-01-27,Delhi,Negative
+1225,It is okay,2024-01-24,Chennai,Neutral
+1226,Excellent quality,2024-01-01,Hyderabad,Positive
+1227,Totally disappointed,2024-01-04,Chennai,Negative
+1228,Not worth the money,2024-01-31,Hyderabad,Negative
+1229,Very bad experience,2024-01-28,Mumbai,Negative
+1230,Totally disappointed,2024-01-10,Mumbai,Negative
+1231,Totally disappointed,2024-01-27,Mumbai,Negative
+1232,Nothing special,2024-01-08,Madurai,Neutral
+1233,Not worth the money,2024-01-07,Delhi,Negative
+1234,Extremely unhappy,2024-01-25,Bangalore,Negative
+1235,I love this product,2024-01-30,Delhi,Positive
+1236,Neither good nor bad,2024-01-22,Coimbatore,Neutral
+1237,Neither good nor bad,2024-01-25,Coimbatore,Neutral
+1238,Worst service ever,2024-01-02,Chennai,Negative
+1239,Worst service ever,2024-01-13,Madurai,Negative
+1240,Very happy with the experience,2024-01-10,Mumbai,Positive
+1241,Excellent quality,2024-01-05,Mumbai,Positive
+1242,It is okay,2024-01-29,Hyderabad,Neutral
+1243,I love this product,2024-01-19,Hyderabad,Positive
+1244,Nothing special,2024-01-28,Coimbatore,Neutral
+1245,Average experience,2024-01-26,Coimbatore,Neutral
+1246,Nothing special,2024-01-13,Delhi,Neutral
+1247,I love this product,2024-01-20,Delhi,Positive
+1248,Worst service ever,2024-01-22,Hyderabad,Negative
+1249,Just fine,2024-01-22,Hyderabad,Neutral
+1250,It is okay,2024-01-09,Mumbai,Neutral
+1251,Worst service ever,2024-01-14,Coimbatore,Negative
+1252,Worst service ever,2024-01-28,Madurai,Negative
+1253,Very bad experience,2024-01-29,Coimbatore,Negative
+1254,Just fine,2024-01-15,Delhi,Neutral
+1255,Very happy with the experience,2024-01-21,Hyderabad,Positive
+1256,Extremely unhappy,2024-01-25,Hyderabad,Negative
+1257,Extremely unhappy,2024-01-31,Chennai,Negative
+1258,Not worth the money,2024-01-30,Mumbai,Negative
+1259,Very bad experience,2024-01-30,Bangalore,Negative
+1260,Nothing special,2024-01-31,Bangalore,Neutral
+1261,Very happy with the experience,2024-01-02,Chennai,Positive
+1262,Just fine,2024-01-13,Coimbatore,Neutral
+1263,It is okay,2024-01-04,Coimbatore,Neutral
+1264,Excellent quality,2024-01-04,Mumbai,Positive
+1265,Average experience,2024-01-31,Coimbatore,Neutral
+1266,Average experience,2024-01-25,Coimbatore,Neutral
+1267,Worst service ever,2024-01-28,Mumbai,Negative
+1268,It is okay,2024-01-13,Hyderabad,Neutral
+1269,Highly recommended,2024-01-23,Mumbai,Positive
+1270,Highly recommended,2024-01-18,Hyderabad,Positive
+1271,Average experience,2024-01-10,Delhi,Neutral
+1272,Amazing service,2024-01-21,Mumbai,Positive
+1273,Extremely unhappy,2024-01-17,Hyderabad,Negative
+1274,Average experience,2024-01-15,Chennai,Neutral
+1275,Neither good nor bad,2024-01-07,Mumbai,Neutral
+1276,Neither good nor bad,2024-01-23,Madurai,Neutral
+1277,Worst service ever,2024-01-19,Coimbatore,Negative
+1278,Neither good nor bad,2024-01-24,Coimbatore,Neutral
+1279,Very happy with the experience,2024-01-04,Mumbai,Positive
+1280,Very happy with the experience,2024-01-07,Coimbatore,Positive
+1281,Totally disappointed,2024-01-01,Hyderabad,Negative
+1282,Neither good nor bad,2024-01-02,Chennai,Neutral
+1283,Totally disappointed,2024-01-02,Mumbai,Negative
+1284,Worst service ever,2024-01-15,Coimbatore,Negative
+1285,Excellent quality,2024-01-31,Mumbai,Positive
+1286,Extremely unhappy,2024-01-09,Mumbai,Negative
+1287,Excellent quality,2024-01-14,Madurai,Positive
+1288,Nothing special,2024-01-23,Chennai,Neutral
+1289,Very bad experience,2024-01-28,Bangalore,Negative
+1290,Extremely unhappy,2024-01-07,Mumbai,Negative
+1291,Totally disappointed,2024-01-24,Chennai,Negative
+1292,Highly recommended,2024-01-04,Delhi,Positive
+1293,Nothing special,2024-01-18,Mumbai,Neutral
+1294,Very bad experience,2024-01-19,Bangalore,Negative
+1295,Average experience,2024-01-13,Bangalore,Neutral
+1296,It is okay,2024-01-24,Chennai,Neutral
+1297,Extremely unhappy,2024-01-18,Delhi,Negative
+1298,Just fine,2024-01-29,Mumbai,Neutral
+1299,Not worth the money,2024-01-09,Delhi,Negative
+1300,It is okay,2024-01-03,Hyderabad,Neutral
+1301,Amazing service,2024-01-23,Bangalore,Positive
+1302,Very bad experience,2024-01-07,Coimbatore,Negative
+1303,Amazing service,2024-01-18,Hyderabad,Positive
+1304,Just fine,2024-01-02,Bangalore,Neutral
+1305,Extremely unhappy,2024-01-03,Madurai,Negative
+1306,Worst service ever,2024-01-05,Delhi,Negative
+1307,Worst service ever,2024-01-13,Coimbatore,Negative
+1308,Highly recommended,2024-01-07,Coimbatore,Positive
+1309,Totally disappointed,2024-01-03,Delhi,Negative
+1310,Amazing service,2024-01-17,Hyderabad,Positive
+1311,I love this product,2024-01-07,Chennai,Positive
+1312,Not worth the money,2024-01-12,Mumbai,Negative
+1313,Extremely unhappy,2024-01-28,Hyderabad,Negative
+1314,Amazing service,2024-01-07,Bangalore,Positive
+1315,Just fine,2024-01-10,Coimbatore,Neutral
+1316,Neither good nor bad,2024-01-05,Coimbatore,Neutral
+1317,Excellent quality,2024-01-08,Delhi,Positive
+1318,Excellent quality,2024-01-07,Coimbatore,Positive
+1319,Totally disappointed,2024-01-18,Coimbatore,Negative
+1320,Just fine,2024-01-27,Coimbatore,Neutral
+1321,Amazing service,2024-01-01,Delhi,Positive
+1322,Very bad experience,2024-01-14,Coimbatore,Negative
+1323,Very bad experience,2024-01-06,Mumbai,Negative
+1324,I love this product,2024-01-03,Hyderabad,Positive
+1325,It is okay,2024-01-02,Madurai,Neutral
+1326,Extremely unhappy,2024-01-15,Coimbatore,Negative
+1327,Nothing special,2024-01-14,Chennai,Neutral
+1328,Totally disappointed,2024-01-11,Coimbatore,Negative
+1329,Just fine,2024-01-01,Madurai,Neutral
+1330,Neither good nor bad,2024-01-05,Coimbatore,Neutral
+1331,It is okay,2024-01-16,Coimbatore,Neutral
+1332,Worst service ever,2024-01-15,Mumbai,Negative
+1333,Extremely unhappy,2024-01-26,Bangalore,Negative
+1334,Nothing special,2024-01-15,Bangalore,Neutral
+1335,Totally disappointed,2024-01-22,Mumbai,Negative
+1336,Neither good nor bad,2024-01-20,Mumbai,Neutral
+1337,Neither good nor bad,2024-01-07,Chennai,Neutral
+1338,Neither good nor bad,2024-01-25,Hyderabad,Neutral
+1339,It is okay,2024-01-28,Bangalore,Neutral
+1340,Very happy with the experience,2024-01-31,Bangalore,Positive
+1341,Just fine,2024-01-27,Delhi,Neutral
+1342,Totally disappointed,2024-01-12,Madurai,Negative
+1343,Neither good nor bad,2024-01-20,Hyderabad,Neutral
+1344,Very bad experience,2024-01-05,Bangalore,Negative
+1345,Highly recommended,2024-01-18,Delhi,Positive
+1346,Very bad experience,2024-01-25,Coimbatore,Negative
+1347,Nothing special,2024-01-27,Mumbai,Neutral
+1348,Just fine,2024-01-15,Bangalore,Neutral
+1349,Just fine,2024-01-21,Bangalore,Neutral
+1350,Very happy with the experience,2024-01-13,Coimbatore,Positive
+1351,Excellent quality,2024-01-24,Bangalore,Positive
+1352,Excellent quality,2024-01-06,Coimbatore,Positive
+1353,I love this product,2024-01-28,Hyderabad,Positive
+1354,Worst service ever,2024-01-12,Mumbai,Negative
+1355,Neither good nor bad,2024-01-23,Mumbai,Neutral
+1356,Nothing special,2024-01-18,Bangalore,Neutral
+1357,It is okay,2024-01-11,Delhi,Neutral
+1358,Highly recommended,2024-01-28,Mumbai,Positive
+1359,Extremely unhappy,2024-01-03,Mumbai,Negative
+1360,Totally disappointed,2024-01-28,Hyderabad,Negative
+1361,Excellent quality,2024-01-30,Hyderabad,Positive
+1362,Totally disappointed,2024-01-04,Madurai,Negative
+1363,Excellent quality,2024-01-22,Madurai,Positive
+1364,Amazing service,2024-01-01,Chennai,Positive
+1365,Amazing service,2024-01-30,Mumbai,Positive
+1366,Neither good nor bad,2024-01-23,Chennai,Neutral
+1367,Very bad experience,2024-01-28,Coimbatore,Negative
+1368,Worst service ever,2024-01-01,Hyderabad,Negative
+1369,Amazing service,2024-01-25,Chennai,Positive
+1370,Extremely unhappy,2024-01-31,Delhi,Negative
+1371,Average experience,2024-01-14,Coimbatore,Neutral
+1372,Very bad experience,2024-01-09,Madurai,Negative
+1373,I love this product,2024-01-11,Coimbatore,Positive
+1374,Average experience,2024-01-20,Madurai,Neutral
+1375,Extremely unhappy,2024-01-27,Chennai,Negative
+1376,Very bad experience,2024-01-08,Hyderabad,Negative
+1377,Worst service ever,2024-01-11,Mumbai,Negative
+1378,Just fine,2024-01-25,Chennai,Neutral
+1379,Extremely unhappy,2024-01-21,Madurai,Negative
+1380,Worst service ever,2024-01-12,Hyderabad,Negative
+1381,Amazing service,2024-01-31,Hyderabad,Positive
+1382,Average experience,2024-01-29,Delhi,Neutral
+1383,It is okay,2024-01-05,Hyderabad,Neutral
+1384,Totally disappointed,2024-01-02,Bangalore,Negative
+1385,Average experience,2024-01-11,Delhi,Neutral
+1386,Extremely unhappy,2024-01-03,Madurai,Negative
+1387,Average experience,2024-01-17,Bangalore,Neutral
+1388,It is okay,2024-01-02,Coimbatore,Neutral
+1389,Not worth the money,2024-01-31,Coimbatore,Negative
+1390,Average experience,2024-01-08,Madurai,Neutral
+1391,Extremely unhappy,2024-01-07,Mumbai,Negative
+1392,Not worth the money,2024-01-23,Chennai,Negative
+1393,Neither good nor bad,2024-01-29,Hyderabad,Neutral
+1394,Excellent quality,2024-01-20,Hyderabad,Positive
+1395,Excellent quality,2024-01-19,Bangalore,Positive
+1396,Very happy with the experience,2024-01-08,Delhi,Positive
+1397,Amazing service,2024-01-17,Mumbai,Positive
+1398,Just fine,2024-01-23,Chennai,Neutral
+1399,Very happy with the experience,2024-01-02,Bangalore,Positive
+1400,Not worth the money,2024-01-10,Delhi,Negative
+1401,Extremely unhappy,2024-01-13,Coimbatore,Negative
+1402,Not worth the money,2024-01-15,Madurai,Negative
+1403,Average experience,2024-01-13,Coimbatore,Neutral
+1404,Nothing special,2024-01-06,Madurai,Neutral
+1405,I love this product,2024-01-09,Hyderabad,Positive
+1406,It is okay,2024-01-15,Bangalore,Neutral
+1407,Totally disappointed,2024-01-20,Delhi,Negative
+1408,Extremely unhappy,2024-01-13,Bangalore,Negative
+1409,It is okay,2024-01-24,Bangalore,Neutral
+1410,Amazing service,2024-01-11,Madurai,Positive
+1411,Not worth the money,2024-01-01,Coimbatore,Negative
+1412,I love this product,2024-01-12,Hyderabad,Positive
+1413,Average experience,2024-01-10,Hyderabad,Neutral
+1414,Average experience,2024-01-14,Coimbatore,Neutral
+1415,Amazing service,2024-01-25,Coimbatore,Positive
+1416,Very happy with the experience,2024-01-10,Chennai,Positive
+1417,Not worth the money,2024-01-08,Chennai,Negative
+1418,Very bad experience,2024-01-24,Chennai,Negative
+1419,Not worth the money,2024-01-14,Bangalore,Negative
+1420,Totally disappointed,2024-01-24,Delhi,Negative
+1421,Very happy with the experience,2024-01-08,Bangalore,Positive
+1422,Extremely unhappy,2024-01-21,Madurai,Negative
+1423,Amazing service,2024-01-10,Mumbai,Positive
+1424,Very happy with the experience,2024-01-24,Chennai,Positive
+1425,Just fine,2024-01-11,Coimbatore,Neutral
+1426,Excellent quality,2024-01-19,Delhi,Positive
+1427,Amazing service,2024-01-18,Chennai,Positive
+1428,It is okay,2024-01-28,Madurai,Neutral
+1429,Totally disappointed,2024-01-05,Bangalore,Negative
+1430,Amazing service,2024-01-21,Madurai,Positive
+1431,Extremely unhappy,2024-01-27,Bangalore,Negative
+1432,Extremely unhappy,2024-01-06,Bangalore,Negative
+1433,Very happy with the experience,2024-01-05,Delhi,Positive
+1434,Neither good nor bad,2024-01-02,Mumbai,Neutral
+1435,Amazing service,2024-01-15,Mumbai,Positive
+1436,Totally disappointed,2024-01-04,Chennai,Negative
+1437,Just fine,2024-01-11,Chennai,Neutral
+1438,Not worth the money,2024-01-03,Bangalore,Negative
+1439,Worst service ever,2024-01-20,Chennai,Negative
+1440,Average experience,2024-01-08,Bangalore,Neutral
+1441,Extremely unhappy,2024-01-15,Mumbai,Negative
+1442,Nothing special,2024-01-10,Hyderabad,Neutral
+1443,It is okay,2024-01-14,Mumbai,Neutral
+1444,Totally disappointed,2024-01-05,Delhi,Negative
+1445,Amazing service,2024-01-31,Coimbatore,Positive
+1446,Amazing service,2024-01-18,Hyderabad,Positive
+1447,Very happy with the experience,2024-01-06,Bangalore,Positive
+1448,Extremely unhappy,2024-01-24,Coimbatore,Negative
+1449,Average experience,2024-01-22,Madurai,Neutral
+1450,Very happy with the experience,2024-01-24,Delhi,Positive
+1451,Very bad experience,2024-01-31,Bangalore,Negative
+1452,Neither good nor bad,2024-01-23,Chennai,Neutral
+1453,Extremely unhappy,2024-01-02,Coimbatore,Negative
+1454,It is okay,2024-01-19,Mumbai,Neutral
+1455,Neither good nor bad,2024-01-02,Delhi,Neutral
+1456,Average experience,2024-01-01,Coimbatore,Neutral
+1457,Neither good nor bad,2024-01-01,Chennai,Neutral
+1458,Neither good nor bad,2024-01-02,Chennai,Neutral
+1459,Neither good nor bad,2024-01-30,Bangalore,Neutral
+1460,Just fine,2024-01-26,Chennai,Neutral
+1461,Neither good nor bad,2024-01-17,Bangalore,Neutral
+1462,Extremely unhappy,2024-01-26,Bangalore,Negative
+1463,Very happy with the experience,2024-01-19,Mumbai,Positive
+1464,Worst service ever,2024-01-29,Chennai,Negative
+1465,Very happy with the experience,2024-01-14,Chennai,Positive
+1466,Worst service ever,2024-01-29,Chennai,Negative
+1467,Average experience,2024-01-13,Chennai,Neutral
+1468,I love this product,2024-01-24,Bangalore,Positive
+1469,Average experience,2024-01-12,Madurai,Neutral
+1470,It is okay,2024-01-06,Coimbatore,Neutral
+1471,It is okay,2024-01-26,Coimbatore,Neutral
+1472,Extremely unhappy,2024-01-19,Bangalore,Negative
+1473,I love this product,2024-01-23,Delhi,Positive
+1474,Just fine,2024-01-25,Delhi,Neutral
+1475,Neither good nor bad,2024-01-21,Mumbai,Neutral
+1476,Average experience,2024-01-20,Bangalore,Neutral
+1477,Worst service ever,2024-01-18,Chennai,Negative
+1478,Totally disappointed,2024-01-23,Hyderabad,Negative
+1479,Highly recommended,2024-01-24,Delhi,Positive
+1480,Just fine,2024-01-17,Mumbai,Neutral
+1481,Very happy with the experience,2024-01-23,Bangalore,Positive
+1482,Amazing service,2024-01-24,Hyderabad,Positive
+1483,Amazing service,2024-01-27,Chennai,Positive
+1484,Neither good nor bad,2024-01-03,Delhi,Neutral
+1485,It is okay,2024-01-01,Coimbatore,Neutral
+1486,Very happy with the experience,2024-01-10,Mumbai,Positive
+1487,Highly recommended,2024-01-07,Mumbai,Positive
+1488,Very happy with the experience,2024-01-17,Delhi,Positive
+1489,Extremely unhappy,2024-01-21,Madurai,Negative
+1490,Neither good nor bad,2024-01-30,Delhi,Neutral
+1491,Not worth the money,2024-01-05,Delhi,Negative
+1492,Very bad experience,2024-01-17,Hyderabad,Negative
+1493,Highly recommended,2024-01-11,Chennai,Positive
+1494,It is okay,2024-01-05,Delhi,Neutral
+1495,Neither good nor bad,2024-01-25,Mumbai,Neutral
+1496,Worst service ever,2024-01-03,Mumbai,Negative
+1497,Highly recommended,2024-01-17,Mumbai,Positive
+1498,I love this product,2024-01-17,Bangalore,Positive
+1499,Highly recommended,2024-01-10,Mumbai,Positive
+1500,It is okay,2024-01-30,Delhi,Neutral
