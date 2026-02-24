@@ -67,6 +67,7 @@ This project focuses on analyzing social media tweets to understand public senti
 
 
  **Dashboard Preview**
+ (dashbroad.png.png)
 
 &nbsp;
 
@@ -91,4 +92,5 @@ S**ocial\_Media\_Analysis\_Report.pdf:** Comprehensive project report.
 
 
 Through this project, I demonstrated how to handle raw data, perform exploratory data analysis (EDA), and present findings through professional visualization tools. This workflow is essential for businesses to monitor brand reputation and customer satisfaction.
+
 
