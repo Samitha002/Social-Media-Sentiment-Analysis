@@ -22,4 +22,5 @@ if not df.empty:
 
     plt.show()
 else:
-    print("Table-la data illa, Table name-ah check pannunga!")
+
+    print("Table name")
